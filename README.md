@@ -68,6 +68,3 @@ The LEDs function as a visual needle.
     * Pluck the guitar string.
     * Adjust the tuning peg until the **Green LED (PB2)** lights up.
 
-## Author
-[Your Name]
-B.Tech Student, 4th Year
